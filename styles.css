@@ -2,8 +2,8 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  color: #333;
-  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8KPDqOQtT9tSykkfqkvI7JRxFJ_a5UAGCuw&s');
+  color: #000000;
+  background-image: url('https://cdn.dribbble.com/userupload/14471790/file/original-3cc37099ce1af8e5800d118bfe45fa08.jpg?crop=0x0-1500x1125&format=webp&resize=400x300&vertical=center');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -16,7 +16,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #f4f4f4;
-  color: #333;
+  color: #000000;
 }
 
 header {
@@ -47,6 +47,12 @@ h2 {
   padding-bottom: 5px;
 }
 
+.history,future {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
 p {
   line-height: 1.6;
 }
